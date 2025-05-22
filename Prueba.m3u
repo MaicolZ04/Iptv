@@ -2,8 +2,7 @@
 
 # TV EN VIVO
 #EXTINF:-1 tvg-id="CaracolTV.co",Caracol TV (720p) [Geo-blocked] group-title="TV EN VIVO",Caracol TV
-https://co-e1-p-e-mf2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/25a2d38a-55d0-4134-80bd-95e6722a63b2:DLS/variant/48215209b486b06c621f95db82dea5fe/bandwidth/2402400.m3u8?aid=574462d1cab0f4d50866f001&uid=gLqiWQpPcavtIcrIHz1CS64fobj6bR1D&sid=SnUqo1nHVTtEWVSVLLVK3S1S4LWAF3cS&pid=Z5rMDyvQxV5Q151hZMHMXnBkdQtwoekh&pid_dvr=5h4CMfhasyEkGY4H6lBkdPb3s8xxUbAD&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=pNBdEwGdePKC5BRbRuspsf3rvJmFrr81br5qHtsMQu7wzImgiNl5mb8Stn2acAoCLc0BT62znIQ&adInsertionGoogleStreamId=25a2d38a-55d0-4134-80bd-95e6722a63b2%3ADLS&es=co-e1-p-e-mf2.cdn.mdstrm.com&ote=1748034373515&ot=jSa8_VD2Xo1oQ_DEtIVQeQ&proto=https&pz=us
-
+https://mdstrm.com/live-stream/574463697b9817cf0886fc17?jsapi=true&autoplay=true&access_token=crgh03I9GwoZUfP5c8LjDVBoJ86dcLNxEZ3i8blX6Q4KdsUiSuhXjXPaCz6TKSoBseLwPnFw2XI&controls_bar[showFullscreen]=true
 
 #EXTINF:-1 tvg-id="canal1" tvg-name="Una Pelicula de Minecraft" tvg-logo="https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="🎬 Películas",Una Pelicula de Minecraft
 https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coQJ1pb43HutJt54Dde-Una%20pel%C3%ADcula%20de%20Minecraft%20(2025)%204K%20WEB-DL%20HDR%20Latino.mkv?access=gdhBDZ4smMyVTYxQGZ0EXM4w2Y4UDdkpXZhNTb
