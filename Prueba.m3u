@@ -1,18 +1,15 @@
 #EXTM3U
 
-# TV EN VIVO
-#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
 # Peliculas
-#EXTINF:-1 tvg-id="canal1" tvg-name="Una Pelicula de Minecraft" tvg-logo="https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="🎬 Películas",Una Pelicula de Minecraft
+
+#EXTINF:-1 tvg-id="canal1" tvg-name="Warfare. Tiempo de guerra (2025)" tvg-logo="https://image.tmdb.org/t/p/original/rGyHJAxkrjoDYG4OskcLHzaADxp.jpg" group-title="🎬 FHD Películas",Warfare. Tiempo de guerra (2025)
+https://akirabox.com/download/eyJpdiI6IlBDVlFWL21tdmZHY1h2bkNBZXNvdWc9PSIsInZhbHVlIjoiN3kvL3BiVHBEZklvQkJ3L09pY3ZaUFlUTStyU0lPdU9vQ0IreUE3aVNZUT0iLCJtYWMiOiI3ZDQ5ZThkYTg4N2MxMDI4NDVmN2VlNmE3MGQzNDcxMmRlMzE0ODgyYmI3YmMzMjBlYzM4ZjVhZWJhN2EzOGFlIiwidGFnIjoiIn0=/Warfare%20Tiempo%20de%20guerra%20%282025%29%20WEB-DL%20LIGERO%201080p%20Latino.mkv?expiration=1748037899&signature=4cd1433bf3f197426c1a0e26a6cb1b2c30bd9507a21f4a4591fcf674a64e15ad
+
+#EXTINF:-1 tvg-id="canal1" tvg-name="Extraterritorial (2025)" tvg-logo="https://image.tmdb.org/t/p/original/yUS6J13zpR1qx3baYaflhIMUJ16.jpg" group-title="🎬 FHD Películas",Extraterritorial (2025)
+https://akirabox.com/download/eyJpdiI6IkRpMGZMTE4rTHBhVUhMY3BZMmhMUEE9PSIsInZhbHVlIjoiZXRHelo5ZWN3WVNXcXRaTnF2dmp5NW1GSkdPc3d1NHNOK3Q4WDRLSmdoND0iLCJtYWMiOiI5Nzc2MWRjZDNjNzllY2JhYWEwNmVkZmFhYzU5MGUwZGZhMjhiZTQ1MzA0OTllODVlNGQ0MWQwNjE3MjU3MDQ3IiwidGFnIjoiIn0=/Extraterritorial%20%282025%29%20WEB-DL%201080p%20Latino.mkv?expiration=1748038120&signature=9ed53a1bbc5e8d4d41fc52a78016c003fb014d76ecc6db4d43f942707776af4a
+https://akirabox.com/download/eyJpdiI6ImxqUWtkN3hUbSthRC83cU9VTEltQkE9PSIsInZhbHVlIjoiZXB4STF3OW9ZWUJwZDBRZHpjQmN5WEt1VGVKMEppWllPVVV4YjU4cVNjUT0iLCJtYWMiOiJlMmRhZDUxMTlmYWZjZGRmMmQ1OWExNWUxZjNlY2ExNDNjZWFiYTBjN2U0MDZkZjQ2MDkzNjg5ZDEyOWRlZjMyIiwidGFnIjoiIn0=/Extraterritorial%20%282025%29%20Web-Dl%20720P%20Latino.mkv?expiration=1748038147&signature=1e9538096daaeaf68a424264cbc0af07d0d91b938479eb17c5cfcd0e5d8016b5
+
+#Peliculas 4K
+
+#EXTINF:-1 tvg-id="canal1" tvg-name="Una Pelicula de Minecraft" tvg-logo="https://image.tmdb.org/t/p/original/xamBLexcq5KHBRqFuB3BaJZ06lL.jpg" group-title="🎬 4K Películas",Una Pelicula de Minecraft
 https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coQJ1pb43HutJt54Dde-Una%20pel%C3%ADcula%20de%20Minecraft%20(2025)%204K%20WEB-DL%20HDR%20Latino.mkv?access=gdhBDZ4smMyVTYxQGZ0EXM4w2Y4UDdkpXZhNTb
-
-#EXTINF:-1 tvg-id="canal1" tvg-name="Warfare. Tiempo de guerra (2025)" tvg-logo="https://www.themoviedb.org/t/p/w1280/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="Películas",Warfare. Tiempo de guerra (2025)
-https://seraphinapl.com/stream/JxhgMMRx1f7ENmxjFL84qg/hjkrhuihghfvu/1747986123/25495496/index-f3-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="canal1" tvg-name="Extraterritorial (2025)" tvg-logo="https://image.tmdb.org/t/p/w1280/jM2uqCZNKbiyStyzXOERpMqAbdx.jpg" group-title="Películas",Extraterritorial (2025)
-https://seraphinapl.com/stream/z9WIVLJvdsyVQ2MOyz9Xzg/hjkrhuihghfvu/1747986987/23400693/master.m3u8
-
-#EXTINF:-1 tvg-id="canal1" tvg-name="Prueba" tvg-logo="https://www.themoviedb.org/t/p/w1280/frNkbclQpexf3aUzZrnixF3t5Hw.jpg" group-title="Películas",Prueba
-https://eu1.akirabox.com/uploads/users/DLK0G1RYm917/coJl60ik89Co5xnnkde-The%20Last%20Of%20Us%20S02e03%20-%20Episodio%203%20[720P].mkv?access=AehxGZltGdyhXYvRmZjFmZy1GZxF3cspXch9Wb
