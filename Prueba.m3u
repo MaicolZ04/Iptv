@@ -1,8 +1,8 @@
 #EXTM3U
 
 # TV EN VIVO
-#EXTINF:-1 tvg-id="CaracolTV.co",Caracol TV (720p) [Geo-blocked] group-title="TV EN VIVO",Caracol TV
-https://mdstrm.com/live-stream/574463697b9817cf0886fc17?jsapi=true&autoplay=true&access_token=crgh03I9GwoZUfP5c8LjDVBoJ86dcLNxEZ3i8blX6Q4KdsUiSuhXjXPaCz6TKSoBseLwPnFw2XI&controls_bar[showFullscreen]=true
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Entertainment",Carac 1 (1080p)
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 
 #EXTINF:-1 tvg-id="canal1" tvg-name="Una Pelicula de Minecraft" tvg-logo="https://www.themoviedb.org/t/p/w1280/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="🎬 Películas",Una Pelicula de Minecraft
 https://us1.akirabox.com/uploads/users/lvgKGxXnG8Qn/coQJ1pb43HutJt54Dde-Una%20pel%C3%ADcula%20de%20Minecraft%20(2025)%204K%20WEB-DL%20HDR%20Latino.mkv?access=gdhBDZ4smMyVTYxQGZ0EXM4w2Y4UDdkpXZhNTb
